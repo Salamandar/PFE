@@ -1,0 +1,33 @@
+****************************************
+     NPOF  (11/03/2016 13:50:20)
+****************************************
+
+====================
+     SCANNING / PI
+====================
+AXIS 1 :2, AXIS 2 :3, AXIS 3 :1( position :  25,001) 
+Fast scanning axis : axis 1
+AXIS 1 :Range :   8,000 µm, Center :  19,500 µm, Steps :52 , Step size :   0,157
+AXIS 2 :Range :   8,000 µm, Center :  29,400 µm, Steps :52 , Step size :   0,157
+Digits : 4, Polling time : 4
+====================
+     SPECTRO
+====================
+Start pixel : 138, Stop pixel : 1236, Number of avarages : 3, Integration time :    70
+====================
+     TRACKING
+====================
+Target : 156,700, Real :  155,587
+Max. step size :   0,500, Nbr points average : 10, P :   0,500
+====================
+     DAQ
+====================
+Number of Channels : 4
+Names  :  daq0B1-Nf daq3B2-Nf 
+Config.:   10106	  10106	  10106	  10106
+Range  :   1,000	  1,000	  1,000	  1,000
+Value  :   0,003	  0,009	 -0,283	 -0,356
+
+Sample Clock Source : OnboardClock, Active edge:10280, Mode : 10178,Number : 10, Rate : 10000,000
+
+************** END OF FILE **************
