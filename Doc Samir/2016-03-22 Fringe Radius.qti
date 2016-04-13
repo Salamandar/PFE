@@ -1,0 +1,164 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	Python
+<windows>	2
+<table>
+Table1	30	3	12/04/16 11:23
+geometry	0	0	709	480	
+header	Distance (um)[X]	Shift (1)[Y]	Shift (2)[Y]
+ColWidth	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0
+HiddenColumn	0	0	0
+Comments				
+WindowLabel		2
+<data>
+0	5	15.02	
+1	6	15.1854	
+2	7	15.5229	
+3	8	15.5229	
+4	9	15.8603	
+5	10	15.8603	
+6	12	16.1978	
+7	14	16.5352	
+8	16	16.8727	
+9	18	17.2342	
+10	20	17.5656	
+11	25	18.1075	
+12	30	18.7782	
+13	35	19.448	
+14	40	20.454	
+15	45	21.4548	
+16	50		
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	12/04/16 11:29
+geometry	385	30	842	437	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	823	374
+<PageGeometry>0.0059952	0.0128535	0.986811	0.96144</PageGeometry>
+PlotTitle	Fringe radius = f (tips distance)	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	Fringe radius (um)		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	11	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	9	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	9	75	0	0	0
+AxisFont0	Cantarell	9	50	0	0	0
+AxisFont1	Cantarell	9	50	0	0	0
+AxisFont2	Cantarell	9	50	0	0	0
+AxisFont3	Cantarell	9	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#333333	#333333	#333333	#333333
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Distance (um)	Table1_Shift (1)	1	0	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+<Function>
+<Type>0</Type>
+<Title>NonLinearFit1</Title>
+<Expression>A*x+B</Expression>
+<Variable>x</Variable>
+<Range>5	45</Range>
+<Points>100</Points>
+<Constant>A	0.14901023670222</Constant>
+<Constant>B	14.411159309364</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#000000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+scale	0	14	22	0	9	5	0	0
+scale	1	14	22	0	9	5	0	0
+scale	2	0	50	0	6	5	0	0
+scale	3	0	50	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>26.295843520782</x>
+<y>15.264214046823</y>
+<right>42.799511002445</right>
+<bottom>14.2107023411371</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1,@W)
+\l(2) 0,15x + 14,41
+</Text>
+<Font>Cantarell	9	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
+<log>
+[12/04/16 15:04	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_Shift (1), using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 5,0000000000000e+00 to x = 4,0000000000000e+01
+A = 1,4901023670222e-01 +/- 2,7423130930075e-03
+B = 1,4411159309364e+01 +/- 5,4960406177923e-02
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1,2709275095282e-02
+R^2 = 0,9956163362631
+Adjusted R^2 = 0,9948857256403
+RMSE (Root Mean Squared Error) = 0,112735420766
+RSS (Residual Sum of Squares) = 0,1652205762387
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+</log>
