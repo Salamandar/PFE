@@ -1,21 +1,43 @@
-
-
-# Windows
+#### Fichiers temporaires
+*~
 Thumbs.db
-
-
-# LaTeX
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.pdf
-*.synctex.gz
-*.toc
-
-
-
-
 temp/
-
 /Labview PO
+
+
+
+#### LaTex
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+/Rapport de PFE/Rapport de PFE 2016.pdf
+
+## Intermediate documents:
+*.dvi
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+*.ps
+*.eps
+# *.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.brf
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
