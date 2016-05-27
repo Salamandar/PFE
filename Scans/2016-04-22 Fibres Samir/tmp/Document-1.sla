@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.1">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Akaash Normal" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" BCOLOR="None" BSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Akaash Normal" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0012598425197" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="KONICA-MINOLTA-C368SeriesPS-P" filename="" separationName="Tout" printerCommand="">
+            <Separation Name="Cyan"/>
+            <Separation Name="Magenta"/>
+            <Separation Name="Jaune"/>
+            <Separation Name="Noir"/>
+        </Printer>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="40.1574803149606" OwnPage="0" ItemID="52472688" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_040_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" gXpos="139.685039370079" gYpos="40.1574803149606" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="40.1574803149606" OwnPage="0" ItemID="79360960" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_053_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" gXpos="251.677165354331" gYpos="40.1574803149606" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="40.1574803149606" OwnPage="0" ItemID="61265952" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_060_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" gXpos="527.716535433071" gYpos="40.1574803149606" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.692913385827" YPOS="40.1574803149606" OwnPage="0" ItemID="52330368" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_047_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" gXpos="414.692913385827" gYpos="40.1574803149606" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="141.149606299213" OwnPage="0" ItemID="52537184" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_041_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" gXpos="139.685039370079" gYpos="141.149606299213" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="141.149606299213" OwnPage="0" ItemID="56960080" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_054_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="141.149606299213" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="141.149606299213" OwnPage="0" ItemID="56606608" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_061_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="527.716535433071" gYpos="141.149606299213" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.692913385827" YPOS="141.149606299213" OwnPage="0" ItemID="50463936" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_048_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="414.692913385827" gYpos="141.149606299213" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="242.141732283465" OwnPage="0" ItemID="58955008" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_042_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="242.141732283465" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="242.141732283465" OwnPage="0" ItemID="55852288" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_055_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="242.141732283465" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="242.141732283465" OwnPage="0" ItemID="59538816" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_062_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="527.716535433071" gYpos="242.141732283465" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.692913385827" YPOS="242.141732283465" OwnPage="0" ItemID="56632992" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_049_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="414.692913385827" gYpos="242.141732283465" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="343.133858267717" OwnPage="0" ItemID="59493392" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_043_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="343.133858267717" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="343.133858267717" OwnPage="0" ItemID="59923728" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_056_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="343.133858267717" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="343.133858267717" OwnPage="0" ItemID="55784448" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_063_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="527.716535433071" gYpos="343.133858267717" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.692913385827" YPOS="343.133858267717" OwnPage="0" ItemID="60339264" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_050_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="414.692913385827" gYpos="343.133858267717" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="443.401574803149" OwnPage="0" ItemID="52141968" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_044_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="443.401574803149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="443.401574803149" OwnPage="0" ItemID="58886576" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_057_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="443.401574803149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.692913385827" YPOS="443.401574803149" OwnPage="0" ItemID="59744544" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_051_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="414.692913385827" gYpos="443.401574803149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="544.393700787401" OwnPage="0" ItemID="52396672" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_045_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="544.393700787401" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="544.393700787401" OwnPage="0" ItemID="59662656" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_058_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="544.393700787401" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="544.393700787401" OwnPage="0" ItemID="56821376" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_045_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="544.393700787401" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="544.393700787401" OwnPage="0" ItemID="59649664" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_058_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="544.393700787401" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="646.440944881891" OwnPage="0" ItemID="59212400" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_047_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="646.440944881891" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="646.440944881891" OwnPage="0" ItemID="59807568" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_060_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="646.440944881891" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="646.440944881891" OwnPage="0" ItemID="60003472" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_046_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="139.685039370079" gYpos="646.440944881891" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="251.677165354331" YPOS="646.440944881891" OwnPage="0" ItemID="58898528" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_059_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="251.677165354331" gYpos="646.440944881891" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.692913385827" YPOS="544.401574803148" OwnPage="0" ItemID="60305872" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_052_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="414.692913385827" gYpos="544.401574803148" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="443.40251968504" OwnPage="0" ItemID="61370960" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_064_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.858 L0 96.858 L0 0 Z" gXpos="527.716535433071" gYpos="443.40251968504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="544.394645669292" OwnPage="0" ItemID="52400352" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_065_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="527.716535433071" gYpos="544.394645669292" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="645.386771653545" OwnPage="0" ItemID="60381072" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_066_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="527.716535433071" gYpos="645.386771653545" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="527.716535433071" YPOS="746.378897637799" OwnPage="0" ItemID="56745616" PTYPE="2" WIDTH="107.55905511811" HEIGHT="96.8580266752368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.274385344689056" LOCALSCY="0.274385344689056" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="scan_067_g1.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" copath="M0 0 L107.559 0 L107.559 96.868 L0 96.868 L0 0 Z" gXpos="527.716535433071" gYpos="746.378897637799" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="203.102362204725" YPOS="39.7224409448819" OwnPage="0" ItemID="58883488" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="203.102362204725" gYpos="39.7224409448819" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="5μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="196.996062992126" YPOS="138.935039370079" OwnPage="0" ItemID="85273296" PTYPE="4" WIDTH="32.1023622047248" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L32.1024 0 L32.1024 11.5 L0 11.5 L0 0 Z" copath="M0 0 L32.1024 0 L32.1024 11.5 L0 11.5 L0 0 Z" gXpos="196.996062992126" gYpos="138.935039370079" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="20μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="197.433070866142" YPOS="240.982283464567" OwnPage="0" ItemID="96235792" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="197.433070866142" gYpos="240.982283464567" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="30μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="197.433070866142" YPOS="343.029527559055" OwnPage="0" ItemID="96194592" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="197.433070866142" gYpos="343.029527559055" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="43μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="197.433070866142" YPOS="442.242125984251" OwnPage="0" ItemID="97935040" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="197.433070866142" gYpos="442.242125984251" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="56μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="197.433070866142" YPOS="541.454724409448" OwnPage="0" ItemID="98062800" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="197.433070866142" gYpos="541.454724409448" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="67μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="197.433070866142" YPOS="643.501968503938" OwnPage="0" ItemID="91989248" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="197.433070866142" gYpos="643.501968503938" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="78μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="307.984251968504" YPOS="643.501968503938" OwnPage="0" ItemID="91961696" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="307.984251968504" gYpos="643.501968503938" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="88μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="307.984251968504" YPOS="541.454724409448" OwnPage="0" ItemID="92185136" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="307.984251968504" gYpos="541.454724409448" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="75μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="307.984251968504" YPOS="442.242125984251" OwnPage="0" ItemID="92398640" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="307.984251968504" gYpos="442.242125984251" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="62μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="307.984251968504" YPOS="343.029527559055" OwnPage="0" ItemID="92430544" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="307.984251968504" gYpos="343.029527559055" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="49μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="307.984251968504" YPOS="240.982283464567" OwnPage="0" ItemID="92442160" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="307.984251968504" gYpos="240.982283464567" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="34μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="307.984251968504" YPOS="138.935039370079" OwnPage="0" ItemID="92454736" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="307.984251968504" gYpos="138.935039370079" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="20μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="313.653543307087" YPOS="39.7224409448819" OwnPage="0" ItemID="92469840" PTYPE="4" WIDTH="34.5" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" copath="M0 0 L34.5 0 L34.5 11.5 L0 11.5 L0 0 Z" gXpos="313.653543307086" gYpos="39.7224409448819" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="5μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="472.393700787401" YPOS="39.7224409448819" OwnPage="0" ItemID="93096576" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="472.3937007874" gYpos="39.7224409448819" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="89μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="39.5098425196851" OwnPage="0" ItemID="96872352" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="39.5098425196851" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="101μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="463.889763779527" YPOS="138.935039370079" OwnPage="0" ItemID="98455248" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="463.889763779526" gYpos="138.935039370079" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="101μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="463.889763779527" YPOS="240.982283464568" OwnPage="0" ItemID="53432960" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="463.889763779526" gYpos="240.982283464568" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="112μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="240.769685039371" OwnPage="0" ItemID="50396352" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="240.769685039371" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="126μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="463.889763779527" YPOS="340.194881889764" OwnPage="0" ItemID="84774544" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="463.889763779526" gYpos="340.194881889764" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="123μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="339.982283464567" OwnPage="0" ItemID="83872768" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="339.982283464567" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="139μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="463.889763779527" YPOS="442.242125984252" OwnPage="0" ItemID="84603152" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="463.889763779526" gYpos="442.242125984252" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="134μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="442.029527559054" OwnPage="0" ItemID="58683920" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="442.029527559054" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="150μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="463.889763779527" YPOS="544.28937007874" OwnPage="0" ItemID="83312352" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="463.889763779526" gYpos="544.28937007874" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="145μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="544.076771653542" OwnPage="0" ItemID="58889456" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="544.076771653542" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="173μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="138.722440944882" OwnPage="0" ItemID="89870160" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="138.722440944882" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="114μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="643.28937007874" OwnPage="0" ItemID="54251392" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="643.28937007874" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="198μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.55905511811" YPOS="745.33661417323" OwnPage="0" ItemID="57648016" PTYPE="4" WIDTH="44.2992125984259" HEIGHT="11.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" copath="M0 0 L44.2992 0 L44.2992 11.5 L0 11.5 L0 0 Z" gXpos="577.559055118109" gYpos="745.33661417323" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONT="Ubuntu Regular"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="221μm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="389.133858267717" YPOS="60" OwnPage="0" ItemID="57064992" PTYPE="5" WIDTH="761.92070194628" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="89.4836650761337" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="389.133858267717" gYpos="60" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="173.834645669291" YPOS="753.330708661417" OwnPage="0" ItemID="97155488" PTYPE="4" WIDTH="40.6" HEIGHT="13.8000000000002" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L40.6 0 L40.6 13.8 L0 13.8 L0 0 Z" copath="M0 0 L40.6 0 L40.6 13.8 L0 13.8 L0 0 Z" gXpos="173.834645669291" gYpos="753.330708661417" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="Spot 1"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="288.834645669291" YPOS="753.330708661417" OwnPage="0" ItemID="56510896" PTYPE="4" WIDTH="40.6" HEIGHT="13.8000000000002" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L40.6 0 L40.6 13.8 L0 13.8 L0 0 Z" copath="M0 0 L40.6 0 L40.6 13.8 L0 13.8 L0 0 Z" gXpos="288.834645669291" gYpos="753.330708661417" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Ubuntu Regular" CH="Spot 2"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

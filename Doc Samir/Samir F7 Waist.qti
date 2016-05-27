@@ -1,0 +1,174 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	Python
+<windows>	2
+<table>
+Table1	30	3	21/04/16 15:31
+geometry	0	0	424	678	
+header	Distance (pix)[X]	Distance (um)[X]	Waist (um)[Y]
+ColWidth	100	100	100	
+<com>
+<col nr="1">
+col("Distance (pix)", i)*0.087
+</col>
+</com>
+ColType	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0
+HiddenColumn	0	0	0
+Comments				
+WindowLabel		2
+<data>
+0	1818	158.166	3.927
+1	1715	149.205	4.048
+2	1593	138.591	3.789
+3	1462	127.194	4.232
+4	1342	116.754	4.4
+5	1222	106.314	3.526
+6	1106	96.222	4.431
+7	989	86.043	4.167
+8	866	75.342	
+9	750	65.25	4.05
+10	635	55.245	4.104
+11	524	45.588	3.8
+12	404	35.148	
+13	300	26.1	3.2
+14	186	16.182	3.3
+15	133	11.571	2.9
+16	71	6.177	2.8
+17	1972	171.564	4.193
+18	2116	184.092	5.213
+19	2263	196.881	5.29
+20	2412	209.844	5.01
+21	2549	221.763	5.4
+22	2700	234.9	5.76
+23	2840	247.08	5.77
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	21/04/16 15:34
+geometry	492	17	779	437	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	761	374
+<PageGeometry>0.00648508	0.0128535	0.98703	0.96144</PageGeometry>
+PlotTitle	Waist Fibre Samir 7	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	11	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	9	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	9	75	0	0	0
+AxisFont0	Cantarell	9	50	0	0	0
+AxisFont1	Cantarell	9	50	0	0	0
+AxisFont2	Cantarell	9	50	0	0	0
+AxisFont3	Cantarell	9	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#333333	#333333	#333333	#333333
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Distance (um)	Table1_Waist (um)	1	0	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+<Function>
+<Type>0</Type>
+<Title>NonLinearFit1</Title>
+<Expression>A*x+B</Expression>
+<Variable>x</Variable>
+<Range>6.177	247.08</Range>
+<Points>100</Points>
+<Constant>A	0.010112975938312</Constant>
+<Constant>B	3.0136823738123</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#000000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+scale	0	2.5	6	0	8	5	0	0
+scale	1	2.5	6	0	8	5	0	0
+scale	2	0	250	0	6	5	0	0
+scale	3	0	250	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>140.40114613181</x>
+<y>3.4130434782609</y>
+<right>224.928366762178</right>
+<bottom>2.79264214046823</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1,@W)
+\l(2)Fit Linéaire (w=0,01*d + 3)
+</Text>
+<Font>Cantarell	12	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
+<log>
+[21/04/16 15:37	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_Waist (um), using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 1,5816600000000e+02 to x = 2,4708000000000e+02
+A = 1,0112975938312e-02 +/- 1,1367179065942e-03
+B = 3,0136823738123e+00 +/- 1,6190108767092e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1,5773323605977e-01
+R^2 = 0,7982860289144
+Adjusted R^2 = 0,7770529793264
+RMSE (Root Mean Squared Error) = 0,397156437767
+RSS (Residual Sum of Squares) = 3,154664721195
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+</log>

@@ -1,0 +1,326 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	Python
+<windows>	2
+<table>
+Table1	30	5	22/04/16 14:02
+geometry	0	0	620	513	
+header	Distance pointes[X]	WaistX[Y]	WaistY[Y]	Amplitude[Y]	1/sqrt(Amplitude)[Y]
+ColWidth	100	100	100	100	100	
+<com>
+<col nr="4">
+1/sqrt(col("Amplitude", i))
+</col>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0
+HiddenColumn	0	0	0	0	0
+Comments						
+WindowLabel		2
+<data>
+0	5.2				
+1	18.2				
+2	30.8				
+3	43.1	2.97	3	0.085	3.42997170285
+4	55.6	3.2	2.46	0.073	3.701166050988
+5	66.6	2.95	3.1	0.08	3.535533905933
+6	78.1	3.24	3.42	0.089	3.35200761577
+7	89.4	3.75	3.15	0.095	3.244428422615
+8	100.8	3.41	3.47	0.098	3.194382825
+9	111.9	3.77	3.19	0.08	3.535533905933
+10	123.1				
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	22/04/16 14:04
+geometry	475	0	767	437	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	743	374
+<PageGeometry>0.00658762	0.0128535	0.97892	0.96144</PageGeometry>
+PlotTitle	Waist du 1e spot (Fibre n°2)	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>0</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	11	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	9	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	9	75	0	0	0
+AxisFont0	Cantarell	9	50	0	0	0
+AxisFont1	Cantarell	9	50	0	0	0
+AxisFont2	Cantarell	9	50	0	0	0
+AxisFont3	Cantarell	9	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#333333	#333333	#333333	#333333
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_Distance pointes	Table1_WaistX	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Table1_Distance pointes	Table1_WaistY	2	1	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+<Function>
+<Type>0</Type>
+<Title>NonLinearFit1</Title>
+<Expression>A*x+B</Expression>
+<Variable>x</Variable>
+<Range>43.1	111.9</Range>
+<Points>100</Points>
+<Constant>A	0.0113260640022049</Constant>
+<Constant>B	2.44451886952207</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#000000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>NonLinearFit2</Title>
+<Expression>A*x+B</Expression>
+<Variable>x</Variable>
+<Range>43.1	111.9</Range>
+<Points>100</Points>
+<Constant>A	0.00820054027602542</Constant>
+<Constant>B	2.47380075420772</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#ff0000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+curve	Table1_Distance pointes	Table1_1/sqrt(Amplitude)	2	1	#00ff00	0	1	7	2	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	1
+scale	0	2.4	3.8	0	8	5	0	0
+scale	1	2.4	3.8	0	8	5	0	0
+scale	2	40	120	0	9	5	0	0
+scale	3	40	120	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>92.470588235294</x>
+<y>3.0180602006689</y>
+<right>113.058823529412</right>
+<bottom>2.5685618729097</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)Waist X
+\l(3)LinearFit (0,01) : 0,57°
+\l(2)Waist Y
+\l(4)LinearFit (0,008 : 0,46°
+\l(5)1/sqrt(Amplitude)
+</Text>
+<Font>Cantarell	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
+<log>
+[25/04/16 09:14	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistX, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,9000000000000e+00 to x = 2,2090000000000e+02
+A = 1,0708793756403e-02 +/- 2,2438437609264e-03
+B = 2,5076537471399e+00 +/- 2,6674561080965e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 2,8480889669166e-01
+R^2 = 0,6549440263272
+Adjusted R^2 = 0,5922065765685
+RMSE (Root Mean Squared Error) = 0,5336748979404
+RSS (Residual Sum of Squares) = 3,4177067603
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+[25/04/16 09:14	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistX, using function: A*x+B
+Weighting Method: No weighting
+Nelder-Mead Simplex algorithm with tolerance = 0,0001
+From x = 4,9000000000000e+00 to x = 2,2090000000000e+02
+A = 1,0708793756400e-02 +/- 2,2438437557789e-03
+B = 2,5076537471400e+00 +/- 2,6674561061344e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 2,8480889669166e-01
+R^2 = 0,6549440263272
+Adjusted R^2 = 0,5922065765685
+RMSE (Root Mean Squared Error) = 0,5336748979404
+RSS (Residual Sum of Squares) = 3,4177067603
+---------------------------------------------------------------------------------------
+Iterations = 40
+Status = success
+---------------------------------------------------------------------------------------
+[25/04/16 09:14	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistX, using function: A*x+B
+Weighting Method: No weighting
+Unscaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,9000000000000e+00 to x = 2,2090000000000e+02
+A = 1,0708793756400e-02 +/- 2,2438437557789e-03
+B = 2,5076537471400e+00 +/- 2,6674561061344e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 2,8480889669166e-01
+R^2 = 0,6549440263272
+Adjusted R^2 = 0,5922065765685
+RMSE (Root Mean Squared Error) = 0,5336748979404
+RSS (Residual Sum of Squares) = 3,4177067603
+---------------------------------------------------------------------------------------
+Iterations = 1
+Status = cannot reach the specified tolerance in F
+---------------------------------------------------------------------------------------
+[25/04/16 09:15	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistX, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,9000000000000e+00 to x = 2,2090000000000e+02
+A = 8,3617193868610e-03 +/- 1,0733761249091e-03
+B = 2,6132433710898e+00 +/- 1,2195487060842e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 5,8590085703258e-02
+R^2 = 0,8465526646208
+Adjusted R^2 = 0,8158631975449
+RMSE (Root Mean Squared Error) = 0,2420538900808
+RSS (Residual Sum of Squares) = 0,6444909427358
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+[25/04/16 09:16	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistY, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,9000000000000e+00 to x = 2,2090000000000e+02
+A = 8,0091911144181e-03 +/- 1,7589411473109e-03
+B = 2,4902766868522e+00 +/- 2,0910093605056e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1,7501325511296e-01
+R^2 = 0,6334041974312
+Adjusted R^2 = 0,566750415146
+RMSE (Root Mean Squared Error) = 0,4183458558573
+RSS (Residual Sum of Squares) = 2,100159061355
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+[25/04/16 09:17	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_Amplitude, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,9000000000000e+00 to x = 2,2090000000000e+02
+A = -1,0954893674739e-03 +/- 1,5424045949130e-04
+B = 4,4790687474291e-01 +/- 1,8335931507855e-02
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1,3457517237508e-03
+R^2 = 0,8078314580619
+Adjusted R^2 = 0,7728917231641
+RMSE (Root Mean Squared Error) = 0,03668448887133
+RSS (Residual Sum of Squares) = 0,01614902068501
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+
+[25/04/16 09:30	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistX, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,3100000000000e+01 to x = 1,1190000000000e+02
+A = 1,1326064002205e-02 +/- 3,3707836781664e-03
+B = 2,4445188695221e+00 +/- 2,7372148204898e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 4,1457358263185e-02
+R^2 = 0,6930643611263
+Adjusted R^2 = 0,5395965416895
+RMSE (Root Mean Squared Error) = 0,2036108009492
+RSS (Residual Sum of Squares) = 0,2072867913159
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+[25/04/16 09:30	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_WaistY, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,3100000000000e+01 to x = 1,1190000000000e+02
+A = 8,2005402760254e-03 +/- 4,8150450357131e-03
+B = 2,4738007542077e+00 +/- 3,9100143665746e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 8,4594195215536e-02
+R^2 = 0,3671347399659
+Adjusted R^2 = 0,05070210994878
+RMSE (Root Mean Squared Error) = 0,2908508126438
+RSS (Residual Sum of Squares) = 0,4229709760777
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+[25/04/16 09:31	Plot: ''Graph1'']
+Non-linear Fit of dataset: Table1_Amplitude, using function: A*x+B
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 4,3100000000000e+01 to x = 1,1190000000000e+02
+A = 1,5552249207960e-04 +/- 1,4567982532690e-04
+B = 7,3594640081568e-02 +/- 1,1829800262072e-02
+--------------------------------------------------------------------------------------
+Chi^2/doF = 7,7435244352218e-05
+R^2 = 0,1856269374016
+Adjusted R^2 = -0,2215595938977
+RMSE (Root Mean Squared Error) = 0,008799729788591
+RSS (Residual Sum of Squares) = 0,0003871762217611
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+
+
+</log>
