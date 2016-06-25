@@ -3434,180 +3434,6 @@ t.setColData(2,[e-my_min for e in t.colData(2)])
 </content>
 </tab>
 </note>
-<multiLayer>
-Graphe1	1	1	20/05/16 16:00
-geometry	185	67	968	491	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	730	400
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<CommonAxes>0</CommonAxes>
-<graph>
-ggeometry	5	5	949	428
-<PageGeometry>0.00520833	0.0112867	0.988542	0.96614</PageGeometry>
-PlotTitle	Transmission de deux fibres métallisées	#000000	4228
-<Antialiasing>1</Antialiasing>
-<Autoscaling>1</Autoscaling>
-<ScaleFonts>1</ScaleFonts>
-<GridOnTop>0</GridOnTop>
-<MissingDataGap>1</MissingDataGap>
-Background	#ffffff	0
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
-EnabledAxes	1	1	1	1	
-AxesTitles	Longueur d'onde (nm)	Transmission (u.a)		%(?Y)	
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-InvertedTitle	0	0	0	0
-TitleFont	Cantarell	10	75	0	0	0
-ScaleFont0	Cantarell	8	75	0	0	0
-ScaleFont1	Cantarell	8	75	0	0	0
-ScaleFont2	Cantarell	8	75	0	0	0
-ScaleFont3	Cantarell	8	75	0	0	0
-AxisFont0	Cantarell	8	50	0	0	0
-AxisFont1	Cantarell	8	50	0	0	0
-AxisFont2	Cantarell	8	50	0	0	0
-AxisFont3	Cantarell	8	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#333333	#333333	#333333	#333333
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	0
-curve	Table1_1	Table1_2	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	3389	1
-scale	0	0	14000	0	8	5	0	0
-scale	1	0	14000	0	8	5	0	0
-scale	2	350	820	0	6	5	0	0
-scale	3	350	820	0	6	5	0	0
-LabelsFormat	0	6	0	6	0	6	0	6
-AxisType	0	0	0	0	
-MajorTicks	3	3	3	3
-MinorTicks	3	3	3	3
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	0
-EnabledTickLabels	1	0	1	0
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>391.68894289186</x>
-<y>11705.555555556</y>
-<right>415.085784313725</right>
-<bottom>12260.8695652174</bottom>
-<attachTo>1</attachTo>
-<onTop>1</onTop>
-<visible>0</visible>
-<Text>
-\l(1)%(1,@W)
-</Text>
-<Font>Cantarell	8	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-<ScaleLayers>1</ScaleLayers>
-</multiLayer>
-<multiLayer>
-Graphe2	1	1	23/05/16 11:21
-geometry	332	66	883	537	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	730	400
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<CommonAxes>0</CommonAxes>
-<graph>
-ggeometry	5	5	865	474
-<PageGeometry>0.00571429	0.0102249	0.988571	0.969325</PageGeometry>
-PlotTitle	Titre	#000000	4228
-<Antialiasing>1</Antialiasing>
-<Autoscaling>1</Autoscaling>
-<ScaleFonts>1</ScaleFonts>
-<GridOnTop>0</GridOnTop>
-<MissingDataGap>1</MissingDataGap>
-Background	#ffffff	0
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)		%(?Y)	
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-InvertedTitle	0	0	0	0
-TitleFont	Cantarell	11	75	0	0	0
-ScaleFont0	Cantarell	9	75	0	0	0
-ScaleFont1	Cantarell	9	75	0	0	0
-ScaleFont2	Cantarell	9	75	0	0	0
-ScaleFont3	Cantarell	9	75	0	0	0
-AxisFont0	Cantarell	9	50	0	0	0
-AxisFont1	Cantarell	9	50	0	0	0
-AxisFont2	Cantarell	9	50	0	0	0
-AxisFont3	Cantarell	9	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#333333	#333333	#333333	#333333
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	0
-curve	Table1_3	Table1_4	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	3389	1
-scale	0	-2000	14000	0	9	5	0	0
-scale	1	-2000	14000	0	9	5	0	0
-scale	2	0.006	0.02	0	8	5	0	0
-scale	3	0.006	0.02	0	8	5	0	0
-LabelsFormat	0	6	0	6	0	6	0	6
-AxisType	0	0	0	0	
-MajorTicks	3	3	3	3
-MinorTicks	3	3	3	3
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	0
-EnabledTickLabels	1	1	1	0
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>0.0061920438957476</x>
-<y>13598.997493734</y>
-<right>0.00809327846364883</right>
-<bottom>12436.0902255639</bottom>
-<attachTo>1</attachTo>
-<onTop>1</onTop>
-<visible>1</visible>
-<Text>
-\l(1)%(1,@W)
-</Text>
-<Font>Cantarell	9	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-<ScaleLayers>1</ScaleLayers>
-</multiLayer>
 <table>
 FFT1	3390	5	23/05/16 11:21
 geometry	835	429	445	220	hidden
@@ -10419,8 +10245,182 @@ WindowLabel	Suivant FFT de Table1_4	2
 </data>
 </table>
 <multiLayer>
+Graphe1	1	1	20/05/16 16:00
+geometry	185	67	968	491	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	730	400
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	949	428
+<PageGeometry>0.00520833	0.0112867	0.988542	0.96614</PageGeometry>
+PlotTitle	Transmission de deux fibres métallisées	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
+EnabledAxes	1	1	1	1	
+AxesTitles	Longueur d'onde (nm)	Transmission (u.a)		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	10	75	0	0	0
+ScaleFont0	Cantarell	8	75	0	0	0
+ScaleFont1	Cantarell	8	75	0	0	0
+ScaleFont2	Cantarell	8	75	0	0	0
+ScaleFont3	Cantarell	8	75	0	0	0
+AxisFont0	Cantarell	8	50	0	0	0
+AxisFont1	Cantarell	8	50	0	0	0
+AxisFont2	Cantarell	8	50	0	0	0
+AxisFont3	Cantarell	8	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#333333	#333333	#333333	#333333
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_1	Table1_2	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	3389	1
+scale	0	0	14000	0	8	5	0	0
+scale	1	0	14000	0	8	5	0	0
+scale	2	350	820	0	6	5	0	0
+scale	3	350	820	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>391.68894289186</x>
+<y>11705.555555556</y>
+<right>415.085784313725</right>
+<bottom>12260.8695652174</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>0</visible>
+<Text>
+\l(1)%(1,@W)
+</Text>
+<Font>Cantarell	8	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graphe2	1	1	23/05/16 11:21
+geometry	877	22	883	537	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	730	400
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	865	474
+<PageGeometry>0.00571429	0.0102249	0.988571	0.969325</PageGeometry>
+PlotTitle	Titre	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	11	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	9	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	9	75	0	0	0
+AxisFont0	Cantarell	9	50	0	0	0
+AxisFont1	Cantarell	9	50	0	0	0
+AxisFont2	Cantarell	9	50	0	0	0
+AxisFont3	Cantarell	9	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#333333	#333333	#333333	#333333
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_3	Table1_4	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	3389	1
+scale	0	-2000	14000	0	9	5	0	0
+scale	1	-2000	14000	0	9	5	0	0
+scale	2	0.006	0.02	0	8	5	0	0
+scale	3	0.006	0.02	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.0061920438957476</x>
+<y>13598.997493734</y>
+<right>0.00790462833099579</right>
+<bottom>12280.9917355372</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1,@W)
+</Text>
+<Font>Cantarell	9	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
 GrapheFFT	1	2	23/05/16 11:23
-geometry	225	97	860	537	active
+geometry	877	293	860	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	0	0

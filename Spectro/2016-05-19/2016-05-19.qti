@@ -3,7 +3,7 @@ QtiPlot 0.9.8 project file
 <windows>	18
 <table>
 Table1	3390	5	19/05/16 16:35
-geometry	0	0	640	220	
+geometry	4	11	640	220	
 header	1[X]	2[Y]	3[Y]	NormPente[Y]	NormPente651[Y]
 ColWidth	100	100	100	100	100	
 <com>
@@ -3414,7 +3414,7 @@ WindowLabel	Fibre classique (air)	2
 </table>
 <table>
 Table2	3390	4	19/05/16 16:35
-geometry	980	625	-1	-1	minimized	
+geometry	50	50	445	220	
 header	1[X]	2[Y]	3[Y]	NormPente[Y]
 ColWidth	100	100	100	100	
 <com>
@@ -6822,7 +6822,7 @@ WindowLabel	Fibre métal (1) (air)	2
 </table>
 <table>
 Table4	3390	5	19/05/16 16:36
-geometry	569	34	603	220	
+geometry	196	908	603	220	minimized	
 header	1[X]	2[Y]	Normalisée (SM600)[Y]	NormPente651[Y]	3[Y]
 ColWidth	100	100	140	100	100	
 <com>
@@ -10233,7 +10233,7 @@ WindowLabel	S630HP	2
 </table>
 <table>
 Table5	3390	2	19/05/16 16:36
-geometry	784	625	-1	-1	minimized	
+geometry	1170	8	445	220	
 header	1[X]	2[Y]
 ColWidth	100	100	
 <com>
@@ -13638,7 +13638,7 @@ WindowLabel	SM600	2
 </table>
 <table>
 Table6	3390	5	20/05/16 09:46
-geometry	21	253	585	220	
+geometry	13	243	619	220	
 header	1[X]	2[Y]	3[Y]	NormPente[Y]	NormPente651[Y]
 ColWidth	100	100	100	100	100	
 <com>
@@ -17049,7 +17049,7 @@ WindowLabel	Fibre classique eau	2
 </table>
 <table>
 Table7	3390	4	20/05/16 09:46
-geometry	588	625	-1	-1	minimized	
+geometry	50	50	445	220	
 header	1[X]	2[Y]	3[Y]	NormPente[Y]
 ColWidth	100	100	100	100	
 <com>
@@ -20457,7 +20457,7 @@ WindowLabel	Fibre metal eau	2
 </table>
 <note>
 Commentaires1	20/05/16 09:50
-geometry	569	182	538	356	
+geometry	641	38	538	356	
 WindowLabel		2
 AutoExec	0
 <LineNumbers>1</LineNumbers>
@@ -20490,7 +20490,7 @@ t.setColData(3,[e/value_norm for e in t.colData(2)])
 </note>
 <table>
 Table8	3390	3	20/05/16 14:58
-geometry	155	134	445	220	
+geometry	75	622	744	220	
 header	1[X]	2[Y]	3[Y]
 ColWidth	100	100	100	
 <com>
@@ -23895,7 +23895,7 @@ WindowLabel	/home/salamandar/PFE/Spectro/2016-05-19/2016-05-19 metal eau2.tsv	2
 </table>
 <table>
 Table9	3390	3	20/05/16 14:58
-geometry	39	28	445	220	
+geometry	766	456	724	220	
 header	1[X]	2[Y]	3[Y]
 ColWidth	100	100	100	
 <com>
@@ -27300,7 +27300,7 @@ WindowLabel	/home/salamandar/PFE/Spectro/2016-05-19/2016-05-19 metal eau3.tsv	2
 </table>
 <table>
 Table10	3390	3	20/05/16 14:58
-geometry	78	56	445	220	
+geometry	0	908	445	220	minimized	
 header	1[X]	2[Y]	3[Y]
 ColWidth	100	100	100	
 <com>
@@ -30705,7 +30705,7 @@ WindowLabel	/home/salamandar/PFE/Spectro/2016-05-19/2016-05-19 metal eau4.tsv	2
 </table>
 <multiLayer>
 Graphe1	1	1	20/05/16 09:52
-geometry	392	625	897	537	minimized	
+geometry	392	908	897	537	minimized	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -30715,7 +30715,7 @@ Alignement	0	0
 <CommonAxes>0</CommonAxes>
 <graph>
 ggeometry	5	5	879	474
-<PageGeometry>0.00980392	0.0121951	1.72353	1.1561</PageGeometry>
+<PageGeometry>0.0056243	0.0102249	0.988751	0.969325</PageGeometry>
 PlotTitle	Titre	#000000	4228
 <Antialiasing>1</Antialiasing>
 <Autoscaling>1</Autoscaling>
@@ -30794,7 +30794,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe2	1	1	20/05/16 10:05
-geometry	196	625	837	537	minimized	
+geometry	907	159	837	537	active
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -30804,7 +30804,7 @@ Alignement	0	0
 <CommonAxes>0</CommonAxes>
 <graph>
 ggeometry	5	5	819	474
-<PageGeometry>0.00980392	0.0121951	1.60588	1.1561</PageGeometry>
+<PageGeometry>0.00603136	0.0102249	0.987937	0.969325</PageGeometry>
 PlotTitle	Titre	#000000	4228
 <Antialiasing>1</Antialiasing>
 <Autoscaling>1</Autoscaling>
@@ -30881,7 +30881,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe4	1	1	20/05/16 10:13
-geometry	0	625	897	537	minimized	
+geometry	0	0	897	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -30891,7 +30891,7 @@ Alignement	0	0
 <CommonAxes>0</CommonAxes>
 <graph>
 ggeometry	11	-3	879	474
-<PageGeometry>0.0215686	-0.00731707	1.72353	1.1561</PageGeometry>
+<PageGeometry>0.0123735	-0.00613497	0.988751	0.969325</PageGeometry>
 PlotTitle	Titre	#000000	4228
 <Antialiasing>1</Antialiasing>
 <Autoscaling>1</Autoscaling>
@@ -30976,7 +30976,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe6	1	1	20/05/16 11:19
-geometry	102	31	837	537	
+geometry	857	277	837	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -31067,7 +31067,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe5	1	1	20/05/16 11:23
-geometry	201	51	837	537	
+geometry	875	253	837	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -31158,7 +31158,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe7	1	1	20/05/16 11:27
-geometry	0	601	857	537	minimized	
+geometry	0	0	857	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -31249,7 +31249,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe8	1	1	20/05/16 14:58
-geometry	236	20	881	537	active
+geometry	872	326	881	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -31316,8 +31316,8 @@ EnabledTickLabels	1	1	1	0
 <LineStyle>0</LineStyle>
 <x>308.15217391304</x>
 <y>13649.122807018</y>
-<right>395.380434782609</right>
-<bottom>11473.6842105263</bottom>
+<right>385.236768802228</right>
+<bottom>12495.867768595</bottom>
 <attachTo>1</attachTo>
 <onTop>1</onTop>
 <visible>1</visible>
@@ -31340,7 +31340,7 @@ EnabledTickLabels	1	1	1	0
 </multiLayer>
 <multiLayer>
 Graphe9	1	1	20/05/16 15:03
-geometry	274	39	857	537	
+geometry	316	47	857	537	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -31438,5 +31438,6 @@ Moyenne = 23 087,6084365781717
 Médiane = 19 024,5000000000000
 taille = 3390
 --------------------------------------------------------------------------------------
+
 
 </log>
