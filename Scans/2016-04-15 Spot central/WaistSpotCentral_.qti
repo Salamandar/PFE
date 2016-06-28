@@ -30,7 +30,7 @@ WindowLabel		2
 </table>
 <multiLayer>
 Graph1	1	1	15/04/16 15:33
-geometry	408	27	539	377	active
+geometry	408	27	666	451	active
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -39,8 +39,8 @@ Alignement	0	0
 <AlignPolicy>0</AlignPolicy>
 <CommonAxes>0</CommonAxes>
 <graph>
-ggeometry	6	5	518	314
-<PageGeometry>0.0112994	0.0151976	0.975518	0.954407</PageGeometry>
+ggeometry	4	6	644	384
+<PageGeometry>0.00607903	0.0148883	0.978723	0.952854</PageGeometry>
 PlotTitle		#000000	4
 <Antialiasing>1</Antialiasing>
 <Autoscaling>1</Autoscaling>
@@ -52,23 +52,24 @@ Margin	0
 Border	0	#000000
 grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	1
 EnabledAxes	1	1	1	1	
-AxesTitles	Distance entre les pointes [µm]	Waist [µm]		 	
+AxesTitles		Waist [µm]		 	
 AxesTitleColors	#000000	#000000	#000000	#000000	
 AxesTitleAlignment	4	4	4	4
-AxesTitleDistance	2	2	2	2
+AxesTitleDistance	0	2	0	2
 InvertedTitle	0	0	0	0
-TitleFont	Cantarell	16	75	0	0	0
-ScaleFont0	Cantarell	16	75	0	0	0
-ScaleFont1	Cantarell	16	75	0	0	0
-ScaleFont2	Cantarell	18	75	0	0	0
-ScaleFont3	Cantarell	16	75	0	0	0
-AxisFont0	Cantarell	9	50	0	0	0
-AxisFont1	Cantarell	7	50	0	0	0
-AxisFont2	Cantarell	10	50	0	0	0
-AxisFont3	Cantarell	7	50	0	0	0
+TitleFont	Cantarell	20	75	0	0	0
+ScaleFont0	Cantarell	28	75	0	0	0
+ScaleFont1	Cantarell	20	75	0	0	0
+ScaleFont2	Cantarell	22	75	0	0	0
+ScaleFont3	Cantarell	20	75	0	0	0
+AxisFont0	Cantarell	26	50	0	0	0
+AxisFont1	Cantarell	9	50	0	0	0
+AxisFont2	Cantarell	26	50	0	0	0
+AxisFont3	Cantarell	9	50	0	0	0
 AxesColors	#000000	#000000	#000000	#000000
 AxesNumberColors	#333333	#333333	#333333	#333333
 AxesBaseline	0	0	0	0	
+CanvasFrame	3	#000000
 CanvasBackground	#ffffff	0
 curve	Table1_Tips Distance (um)	Table1_Waist (um) (Eau)	1	0	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	29	1
 curve	Table1_Tips Distance (um)	Table1_Waist (Air)	1	0	#00ff00	0	2	5	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
@@ -79,14 +80,14 @@ curve	Table1_Tips Distance (um)	Table1_Waist (Air)	1	0	#00ff00	0	2	5	2	#ff0000	#
 <Variable>x</Variable>
 <Range>0	29</Range>
 <Points>100</Points>
-<Constant>A	0.142642840157865</Constant>
-<Constant>B	0.903078731838103</Constant>
+<Constant>A	0.14264284015786</Constant>
+<Constant>B	0.9030787318381</Constant>
 <Style>0</Style>
 <LineStyle>1</LineStyle>
 <Pen>
 	<Color>#000000</Color>
 	<Style>0</Style>
-	<Width>1</Width>
+	<Width>2</Width>
 </Pen>
 <xAxis>2</xAxis>
 <yAxis>0</yAxis>
@@ -107,7 +108,7 @@ curve	Table1_Tips Distance (um)	Table1_Waist (Air)	1	0	#00ff00	0	2	5	2	#ff0000	#
 <Pen>
 	<Color>#ff0000</Color>
 	<Style>0</Style>
-	<Width>1</Width>
+	<Width>2</Width>
 </Pen>
 <xAxis>2</xAxis>
 <yAxis>0</yAxis>
@@ -128,7 +129,7 @@ AxesLineWidth	1
 LabelsRotation	0	0	0	0
 LabelsPrefix				
 LabelsSuffix				
-TickLabelsSpace	4	4	4	4
+TickLabelsSpace	0	4	0	4
 ShowTicksPolicy	0	0	0	0
 EnabledTickLabels	1	0	1	0
 <Legend>
@@ -138,8 +139,8 @@ EnabledTickLabels	1	0	1	0
 <LineStyle>0</LineStyle>
 <x>49.787234042553</x>
 <y>4.783950617284</y>
-<right>30.1134215500945</right>
-<bottom>6.69211822660099</bottom>
+<right>8.5378590078329</right>
+<bottom>9.95633187772926</bottom>
 <attachTo>1</attachTo>
 <onTop>1</onTop>
 <visible>1</visible>
@@ -149,12 +150,12 @@ EnabledTickLabels	1	0	1	0
 \l(3)%(3)
 \l(4)%(4)
 </Text>
-<Font>Cantarell	7	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
+<Font>Ubuntu	36	75	0	0	0</Font>
+<TextColor>#ff0000</TextColor>
 <Background>#ffffff</Background>
 <Alpha>0</Alpha>
 <Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
+<AutoUpdate>0</AutoUpdate>
 <TeXOutput>0</TeXOutput>
 </Legend>
 <Legend>
@@ -164,15 +165,15 @@ EnabledTickLabels	1	0	1	0
 <LineStyle>0</LineStyle>
 <x>18.263888888889</x>
 <y>10</y>
-<right>22.5</right>
-<bottom>7.46341463414634</bottom>
+<right>8.5378590078329</right>
+<bottom>9.95633187772926</bottom>
 <attachTo>1</attachTo>
 <onTop>1</onTop>
 <visible>1</visible>
 <Text>
 Air
 </Text>
-<Font>Cantarell	24	50	0	0	0</Font>
+<Font>Ubuntu	36	75	0	0	0</Font>
 <TextColor>#ff0000</TextColor>
 <Background>#ffffff</Background>
 <Alpha>0</Alpha>
@@ -186,16 +187,16 @@ Air
 <FrameWidth>1</FrameWidth>
 <LineStyle>0</LineStyle>
 <x>20</x>
-<y>3.6585365853659</y>
-<right>24.2361111111111</right>
-<bottom>1.1219512195122</bottom>
+<y>3.6677740863787</y>
+<right>25.7458563535912</right>
+<bottom>1.03654485049834</bottom>
 <attachTo>1</attachTo>
 <onTop>1</onTop>
 <visible>1</visible>
 <Text>
 Eau
 </Text>
-<Font>Cantarell	24	50	0	0	0</Font>
+<Font>Ubuntu	36	75	0	0	0</Font>
 <TextColor>#000000</TextColor>
 <Background>#ffffff</Background>
 <Alpha>0</Alpha>
@@ -261,4 +262,5 @@ RSS (Restes de la somme des carrés) = 0,4708017532113
 Nombre d'itérations = 2
 État = success
 ---------------------------------------------------------------------------------------
+
 </log>
