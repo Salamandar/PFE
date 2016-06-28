@@ -1,4 +1,4 @@
-\documentclass[10pt,a9paper,handout]{beamer}
+\documentclass[9pt,a9paper,handout]{beamer}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[francais]{babel}
@@ -102,7 +102,7 @@
     \begin{itemize}
         \item Faisceau focalisé (objectif de microscope): manipulations difficiles
         \vspace*{3mm}
-        \item Faisceau collimaté (pointes fibrées): intégration et manipulations plus faciles
+        \item Faisceau collimaté (pointes fibrées): \\intégration et manipulations plus faciles
     \end{itemize}
     \vspace*{-5mm}
     \begin{figure}[H]
@@ -164,18 +164,18 @@
         \includegraphics[width=0.47\textwidth]{{"Images/Pointe_metallique_air"}.jpg}
         \vspace{-3mm}\caption{Pointes métallisée et non métallisée}
     \end{figure}
-    
+    \let\thefootnote\relax\footnotetext{Jean-François Motte \& Gwenaëlle Julie, Institut Néel}
 \end{frame}
 
 
 \section{Émission spatiale des pointes}
-%\subsection{}
 \begin{frame}
     \frametitle{Émission spatiale des pointes}
     Scans en (y, z) de l'émission d'une pointe grâce à une autre pointe
     \begin{figure}[c]\centering
-        \includegraphics[width=0.65\textwidth]{Images/FibresScan.pdf}
+        \includegraphics[width=0.6\textwidth]{Images/FibresScan.pdf}
     \end{figure}
+    \vspace*{3mm}
     \begin{itemize}
         \item Mesure de l'angle d'émission des pointes non métallisées
         \begin{itemize}
@@ -183,8 +183,8 @@
             \item Dans l'eau: 8\si{\degree}
         \end{itemize}
     \end{itemize}
-    \vspace*{-9mm}
-    \begin{figure}[c]\centering\hspace*{40mm}
+    \vspace*{-8mm}
+    \begin{figure}[c]\centering\hspace*{35mm}
         \includegraphics[height=0.15\textwidth]{Images/Spot_small.png}
         \quad
         \includegraphics[height=0.15\textwidth]{Images/Spot_big.png}
@@ -195,64 +195,100 @@
     \begin{itemize}
         \item Pointes métallisées
         \begin{itemize}
+            \item Faible distance uniquement
             \item Diminution de l'excentricité avec la distance
             \item Forte dépendance en polarisation
         \end{itemize}
     \end{itemize}
-    
+
+
     \begin{figure}[c]\centering
-        \includegraphics[height=0.15\textwidth]{Images/Metal_50nm.png}
+        \includegraphics[height=0.13\textwidth]{Images/Metal_50nm.png}
         \quad
-        \includegraphics[height=0.15\textwidth]{Images/Metal_1um.png}
-        \quad\vspace*{-2mm}
-        %\includegraphics[height=0.20\textwidth]{DistanceNues.png}
-        \caption{Émission d'une fibre métallisée (50nm -- 1um)}
+        \includegraphics[height=0.13\textwidth]{Images/Metal_1um.png}
+        \quad
+        \includegraphics[height=0.18\textwidth]{Images/DistanceMetal.png}
+        \qquad
+        \includegraphics[height=0.13\textwidth]{Images/polar_long.png}
+        \quad
+        \includegraphics[height=0.13\textwidth]{Images/polar_trans.png}
     \end{figure}
 
 \end{frame}
 
-%\subsection{}
-\begin{frame}
+
+\begin{frame}    
     \frametitle{Émission spatiale des pointes de Bessel}
-    {\large Le faisceau de Bessel}
+    {\large Pointe et faisceau de Bessel}%\footnote
     \vspace*{-2mm}\\
     \begin{figure}[H]
-        \includegraphics[width=0.25\textwidth]{Images/Bessel_1.png}
-        \includegraphics[width=0.45\textwidth]{Images/bessel.png}
+        \includegraphics[width=0.20\textwidth]{Images/Bessel_1.png}
+        \qquad
+        \includegraphics[width=0.40\textwidth]{Images/bessel.png}
     \end{figure}
 \vspace*{0mm}
 
 \vspace*{4mm}
     {\large Profil d'émission et évolution spatiale} \vspace*{1mm}\\
-    \qquad Caractérisation spatiale et spectrale de l'émission
-        \begin{figure}[c]\centering
-            \includegraphics[width=0.20\textwidth]{{"Images/bessel_profil"}.png}
+        \begin{figure}[t]\centering
+        \vspace*{-3mm}
+         \includegraphics[width=0.15\textwidth]{{"Images/bessel_profil"}.png}
             \;
-            \includegraphics[width=0.47\textwidth]{{"Images/bessel_courbe"}.png}
+            \includegraphics[width=0.35\textwidth]{{"Images/bessel_courbe"}.png}
             %\vspace{-3mm}\caption{Découpe au FIB}
         \end{figure}
+        
+    \begin{itemize}
+        \item Grande distance de travail
+        \item Faisceau "auto-réparant"
+    \end{itemize}
+    \let\thefootnote\relax\footnotetext{Samir R. Mondal, \textit{Central Scientific Instruments Organization} à Chandigarh (Inde)}
 \end{frame}
 
 
-% \section{Émission spectrale des pointes}
-% \begin{frame}
-%     {\large Étude en spectres}
-%     
-%
-%     \frametitle{Émission spectrale des pointes}
-%     \begin{figure}[h]
-%         \begin{center}
-%             \includegraphics[width=0.4\textwidth]{{"Intensite_toutes"}.png}
-%             \includegraphics[width=0.4\textwidth]{{"Transmission_toutes"}.png}
-%             \vspace*{-3mm}
-%             \caption{Transmission des pointes nues et métallisées, dans l'eau et dans l'air}
-%         \end{center}
-%     \end{figure}
-%     
-%     
-%
-% \end{frame}
-%
+\section{Émission spectrale des pointes}
+\begin{frame}
+    \frametitle{Émission spectrale des pointes}
+    
+    \begin{columns}[T]
+    \begin{column}{0.60\textwidth}
+        {\large Injection de lumière blanche}
+        \begin{itemize}
+            \item Spectres en transmission
+            \begin{itemize}
+                \item Pointe non métallisée
+                \includegraphics[width=0.7\textwidth]{{"Images/Spectro_nue_nue"}.pdf}
+                \item Pointe métallisée (ouverture $\varnothing \simeq 950nm$)
+                \includegraphics[width=0.7\textwidth]{{"Images/Spectro_metal_nue"}.pdf}
+            \end{itemize}
+            \vspace*{1cm}
+            \item Meilleure transmission dans l'eau
+            \vspace*{1cm}
+            \item Longueur d'onde de coupure pour les fibres métallisées
+        \end{itemize}
+    \end{column}
+    \begin{column}{0.4\textwidth}\flushright
+        \begin{figure}[h]
+                \includegraphics[width=0.98\textwidth]{{"Images/Intensite_toutes"}.png}
+        \end{figure}
+        \begin{figure}[h]
+                \includegraphics[width=\textwidth]{{"Images/Transmission_toutes"}.png}
+        \end{figure}
+
+    \end{column}
+    \end{columns}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Conclusion}
+    \begin{itemize}
+        \item Pointes non métallisées utilisables en champ lointain
+        \item Pointes de Bessel utilisables à très grande distance
+        \item Couplage plasmonique dans les pointes métallisées en champ proche
+    \end{itemize}
+\end{frame}
+
 \begin{frame}
     \begin{LARGE}
     \begin{center}
