@@ -15,6 +15,8 @@ temp/
 *.fls
 *.out
 *.toc
+*.snm
+*.nav
 /Rapport de PFE/Rapport de PFE 2016.pdf
 
 ## Intermediate documents:
