@@ -36,7 +36,7 @@ WindowLabel		2
 </table>
 <multiLayer>
 Graph1	1	1	22/04/16 14:04
-geometry	512	126	767	437	active
+geometry	691	43	767	437	active
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -64,11 +64,11 @@ AxesTitleAlignment	5124	5124	5124	5124
 AxesTitleDistance	2	2	2	2
 InvertedTitle	0	0	0	0
 TitleFont	Cantarell	11	75	0	0	0
-ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont0	Cantarell	12	75	0	0	0
 ScaleFont1	Cantarell	9	75	0	0	0
-ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
 ScaleFont3	Cantarell	9	75	0	0	0
-AxisFont0	Cantarell	9	50	0	0	0
+AxisFont0	Cantarell	12	50	0	0	0
 AxisFont1	Cantarell	9	50	0	0	0
 AxisFont2	Cantarell	9	50	0	0	0
 AxisFont3	Cantarell	9	50	0	0	0
@@ -142,10 +142,29 @@ curve	Table1_Distance pointes	Table1_1/sqrt(Amplitude)	1	0	#0000ff	0	1	7	2	#0000
 <CurveType>0</CurveType>
 <Visible>1</Visible>
 </Function>
-scale	0	1.5	5	0	8	5	0	0
-scale	1	1.4	2.2	0	9	5	0	0
-scale	2	0	250	0	6	5	0	0
-scale	3	0	250	0	6	5	0	0
+<Function>
+<Type>0</Type>
+<Title>F1</Title>
+<Expression>(0.0084*0.008*x*x+(0.0084*2.5+0.008*2.6)*x+2.6*2.5)/(0.003*0.003*x*x+2*1.45*0.003*x+1.45*1.45)</Expression>
+<Variable>x</Variable>
+<Range>0	250</Range>
+<Points>250</Points>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#00ffff</Color>
+	<Style>0</Style>
+	<Width>3</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+scale	0	1.4	5	0	4	5	0	0
+scale	1	1.4	4	0	6	5	0	0
+scale	2	0	221	0	6	5	0	0
+scale	3	0	221	0	6	5	0	0
 LabelsFormat	0	6	0	6	0	6	0	6
 AxisType	0	0	0	0	
 MajorTicks	3	3	3	3
@@ -160,14 +179,14 @@ TickLabelsSpace	4	4	4	4
 ShowTicksPolicy	0	0	0	0
 EnabledTickLabels	1	0	1	0
 <Legend>
-<Frame>1</Frame>
+<Frame>0</Frame>
 <Color>#000000</Color>
 <FrameWidth>1</FrameWidth>
 <LineStyle>0</LineStyle>
-<x>170.22058823529</x>
-<y>3.1739130434783</y>
-<right>250</right>
-<bottom>1.85117056856187</bottom>
+<x>-0.32028985507246</x>
+<y>5</y>
+<right>67.4017595307918</right>
+<bottom>3.42730375426621</bottom>
 <attachTo>1</attachTo>
 <onTop>1</onTop>
 <visible>1</visible>
@@ -178,6 +197,7 @@ EnabledTickLabels	1	0	1	0
 \l(4)LinearFit (0,008 : 0,46°
 \l(5)1/sqrt(Amplitude)
 \l(6)LinearFit (0,0029)
+\l(7)Flux calculé
 </Text>
 <Font>Cantarell	10	50	0	0	0</Font>
 <TextColor>#000000</TextColor>
@@ -314,4 +334,5 @@ RSS (Residual Sum of Squares) = 0,08032429477555
 Iterations = 2
 Status = success
 ---------------------------------------------------------------------------------------
+
 </log>
