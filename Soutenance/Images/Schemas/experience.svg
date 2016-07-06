@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="156.86252mm"
-   height="63.232704mm"
-   viewBox="0 0 555.81207 224.05289"
+   height="44.38242mm"
+   viewBox="0 0 555.81207 157.26054"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -67,8 +67,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4504685"
-     inkscape:cx="192.41218"
-     inkscape:cy="141.23405"
+     inkscape:cx="280.35455"
+     inkscape:cy="32.816998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-34.913522,-34.948261)">
+     transform="translate(-34.913522,-34.948246)">
     <rect
        y="81.344406"
        x="-439.2963"
@@ -668,49 +668,6 @@
          y="128.44022">(14)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42.59119"
-       y="124.22603"
-       id="text4251"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="42.59119"
-         y="124.22603"
-         id="tspan4363">  (1) Laser à 808nm</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4305"
-         x="42.59119"
-         y="139.85103">  (2) Port fibré</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4307"
-         x="42.59119"
-         y="155.47603">  (3) Densités optiques</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4309"
-         x="42.59119"
-         y="171.10103">  (4) Lames λ/2</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4311"
-         x="42.59119"
-         y="186.72603">  (5) Polariseur</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4313"
-         x="42.59119"
-         y="202.35103">  (6) Miroirs</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4315"
-         x="42.59119"
-         y="217.97603">  (7) Cube séparateur</tspan><tspan
-         sodipodi:role="line"
-         x="42.59119"
-         y="233.60103"
-         id="tspan4361">  (8) Cache</tspan><tspan
-         sodipodi:role="line"
-         x="42.59119"
-         y="249.22603"
-         id="tspan4389">  (9) Micro-positionneur</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="322.35242"
        y="243.09305"
@@ -720,33 +677,6 @@
          id="tspan4294"
          x="322.35242"
          y="243.09305" /></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4320"
-       y="186.81442"
-       x="313.51697"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="186.81442"
-         x="313.51697"
-         sodipodi:role="line"
-         id="tspan4338">(10) Fibre optique gravée</tspan><tspan
-         y="202.43942"
-         x="313.51697"
-         sodipodi:role="line"
-         id="tspan4340">(11) Moteurs Piezo XYZ</tspan><tspan
-         y="218.06442"
-         x="313.51697"
-         sodipodi:role="line"
-         id="tspan4342">(12) Connecteur Camsplice</tspan><tspan
-         y="233.68942"
-         x="313.51697"
-         sodipodi:role="line"
-         id="tspan4344">(13) Fibre SM600</tspan><tspan
-         id="tspan4336"
-         y="249.31442"
-         x="313.51697"
-         sodipodi:role="line">(14) Appareil de mesure</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

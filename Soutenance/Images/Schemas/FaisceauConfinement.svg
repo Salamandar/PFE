@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="63.212376mm"
-   height="125.09795mm"
-   viewBox="0 0 223.98086 443.26041"
+   width="138.80972mm"
+   height="64.944466mm"
+   viewBox="0 0 491.84548 230.11816"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -185,7 +185,7 @@
        fy="348.53842"
        r="34.092648"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90948085,-0.35036826,0.30621336,0.79486421,-47.803865,361.37827)" />
+       gradientTransform="matrix(0.90948085,-0.35036826,0.30621336,0.79486421,-47.803865,283.37827)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12684"
@@ -195,7 +195,7 @@
        x2="567.92139"
        y2="269.9566"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.58681069,0,0,0.6335328,217.83992,335.1463)" />
+       gradientTransform="matrix(0.58681069,0,0,0.81450947,217.83992,254.81808)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -204,13 +204,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="56.221116"
-     inkscape:cy="397.24878"
+     inkscape:zoom="1.979899"
+     inkscape:cx="315.77906"
+     inkscape:cy="87.057838"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4246"
      showgrid="false"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -228,7 +228,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-text-baseline="false"
      inkscape:snap-center="false"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-others="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -242,7 +242,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -251,12 +251,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-339.10674,-122.1358)" />
+     transform="translate(-339.10674,-122.13583)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Calque 2"
-     transform="translate(-339.10674,-122.1358)">
+     transform="translate(-339.10674,-122.13583)">
     <g
        id="g4271"
        transform="translate(6.8939681,0)">
@@ -371,16 +371,16 @@
     </g>
     <g
        id="g4246"
-       transform="translate(1.0101525,-43.213203)">
+       transform="translate(277.79198,-256.35542)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect4186-6"
-         d="m 349.03403,433.03033 204.12628,0 0,175.57908 -204.12628,0 z"
+         d="m 349.03403,380.66392 204.12628,0 0,225.73548 -204.12628,0 z"
          style="opacity:1;fill:url(#linearGradient4204-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          r="34.092648"
-         cy="520.81989"
+         cy="442.81989"
          cx="391.12668"
          id="path4211-1"
          style="opacity:1;fill:url(#radialGradient4219-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -388,13 +388,13 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path4221-04"
-         d="m 391.12668,520.81989 62.6635,-4"
+         d="m 391.12668,442.81989 62.6635,-4"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.49999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-8)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path4221-0-2"
-         d="m 391.12668,520.81989 0,51.33064"
+         d="m 391.12668,442.81989 0,51.33064"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.49999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-9-7)" />
       <path
          inkscape:transform-center-y="-4.5685471"
@@ -402,10 +402,10 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path4221-0-6-2"
-         d="m 391.12668,520.81989 64.31306,49.74492"
+         d="m 391.12668,442.81989 64.31306,49.74492"
          style="fill:none;fill-rule:evenodd;stroke:#0006d8;stroke-width:5.49999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-9-2-1)" />
       <flowRoot
-         transform="translate(68.627442,250.12733)"
+         transform="translate(68.627442,172.12733)"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot12229-2"
          xml:space="preserve"><flowRegion
@@ -419,7 +419,7 @@
            id="flowPara12235-5">F<flowSpan
    id="flowSpan12245-2"
    style="font-size:64.99999762%;baseline-shift:sub">diffusion</flowSpan></flowPara></flowRoot>      <flowRoot
-         transform="translate(142.09805,172.00245)"
+         transform="translate(142.09805,94.00245)"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot12229-1-9"
          xml:space="preserve"><flowRegion
@@ -433,7 +433,7 @@
            id="flowPara12235-1-8">F<flowSpan
    id="flowSpan12276-3"
    style="font-size:64.99999762%;baseline-shift:sub">gradient</flowSpan></flowPara></flowRoot>      <flowRoot
-         transform="translate(142.04894,220.58406)"
+         transform="translate(142.04894,142.58406)"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0006d8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot12229-9-8"
          xml:space="preserve"><flowRegion
@@ -448,7 +448,7 @@
            id="flowPara12235-4-0">F<flowSpan
    id="flowSpan12245-9-9"
    style="font-size:64.99999762%;baseline-shift:sub;fill:#0006d8;fill-opacity:1">résultante</flowSpan></flowPara></flowRoot>      <g
-         transform="translate(-11.6682,246.52273)"
+         transform="translate(-13.6682,188.52273)"
          id="g12952-6">
         <path
            sodipodi:nodetypes="ccccc"
@@ -463,12 +463,28 @@
            style="fill:#fcff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path12950-5" />
       </g>
+      <g
+         id="g4296"
+         transform="matrix(1,0,0,-1,-13.6682,796.03276)">
+        <path
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fcff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 544.83398,191.71289 0,52.66992 11.39844,0 0,-52.66992 z"
+           id="path4298"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path4300"
+           style="fill:#fcff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 556.23242,239.94889 c 2.8115,-0.7181 5.63297,-1.75037 8.09609,-3.5182 l 0,4e-5 -13.7406,37.3665 -13.74061,-37.3665 c 2.44912,1.8022 5.15316,3.00139 7.98668,3.71201"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+      </g>
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4318"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(341.71244,-93.039923)"><flowRegion
+       transform="translate(618.49427,-355.4523)"><flowRegion
          id="flowRegion4320"><rect
            id="rect4322"
            width="198.34827"
