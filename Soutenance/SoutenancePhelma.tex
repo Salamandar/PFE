@@ -93,33 +93,49 @@
 \section{Contexte du stage}
     % Présentation de la pince optique
     \begin{frame}
-        \frametitle{Contexte du stage: Les pinces optiques}
+        \frametitle{Les pinces optiques}
+        \begin{itemize} \item Confinement de particules par forces optiques
+        \end{itemize}
+        \begin{figure}[H]
+            \includegraphics[height=0.28\textwidth]{Images/Schemas/FaisceauConfinement_H}
+            \qquad\quad
+            \includegraphics[height=0.28\textwidth]{Images/Schemas/plasmon_bowtie}
+        \end{figure}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Utilisation des pinces optiques}
+        \begin{itemize} \item Microfluidique
+        \end{itemize}
+        \begin{figure}[h] \includegraphics[width=0.5\textwidth]{Images/Intro/microfluidique}
+            \caption{Valve contrôlée par pince optique}
+        \end{figure}
         
-        \begin{columns}[T]
-        \begin{column}{0.70\textwidth}
+        \begin{itemize} \item Biologie
+        \end{itemize}
+        \begin{figure}[h] \includegraphics[width=0.5\textwidth]{Images/Intro/biologie}
+            \caption{Globule rouge étiré par piégeage optique}
+        \end{figure}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Les pinces optiques fibrées}
+
         \begin{itemize}
-            \vspace*{8mm}
-            \item Faisceau focalisé (objectif de microscope)
-            \vspace*{10mm}
-            \item Faisceau collimaté (pointes fibrées): \\intégration et manipulations plus faciles
+            \item Intégration facilitée
+            \vspace*{1mm}
+            \item Manipulation des particules aisée
         \end{itemize}
         \vspace*{-5mm}
         \begin{figure}[H]
-            \includegraphics[width=0.7\textwidth]{Images/Schemas/piegeage_deuxpointes}
+            \includegraphics[width=0.5\textwidth]{Images/Schemas/piegeage_deuxpointes}
         \end{figure}
-        \end{column}
-        \begin{column}{0.3\textwidth}
-            \begin{figure}[H]
-                \includegraphics[width=0.82\textwidth]{Images/Schemas/FaisceauConfinement}
-            \end{figure}
-        \end{column}
-        \end{columns}
-
+        \begin{itemize} \item Pointes métallisées: pinces plasmoniques
+        \end{itemize}
 
     \vspace*{5mm}
         {\large $\rightarrow$ Caractérisation des pointes} \vspace*{1mm}\\
         \qquad Caractérisation spatiale et spectrale de l'émission
-
     \end{frame}
 
 
@@ -141,6 +157,7 @@
         \begin{figure}[h]\centering
             \includegraphics[width=.55\textwidth]{Images/PhotosPointes/Nues_ok_et_abimee}
         \end{figure}
+        \let\thefootnote\relax\footnotetext{Jean-François Motte \& Gwenaëlle Julie, Institut Néel}
     \end{frame}
 
     \begin{frame}
@@ -170,21 +187,21 @@
     \begin{frame}
         \frametitle{Chemin optique}
         \begin{figure}\centering
-            \includegraphics[width=0.8\textwidth]{Images/Schemas/experience}
+            \includegraphics[width=0.9\textwidth]{Images/Schemas/experience}
         \end{figure}
         \begin{itemize}
             \item Faisceau laser gaussien à $\lambda = 808nm$
             \item Contrôle en intensité et polarisation
             \item Positionnement sub-nanométrique
-            \item Observation au microscope
+            \item Observations au microscope
+            \item Mesures dans l'air et dans l'eau
         \end{itemize}
     \end{frame}
 
     \begin{frame}
         \frametitle{Positionnement des pointes fibrées}
         \begin{figure}\centering
-            %\includegraphics[width=0.8\textwidth]{Images/Schemas/experience}
-            \caption{[TODO] Photo mechonics - fibres dans l'eau - PI, de dessus}
+            \includegraphics[width=0.8\textwidth]{Images/photo_experience}
         \end{figure}
         \begin{itemize}
             \item Moteurs piezoélectriques inertiels: positionnement des fibres
@@ -234,93 +251,153 @@
         \end{figure}
         \vspace*{1mm}
         \begin{itemize}
-            \item Mesure de l'angle d'émission des pointes \textbf{non métallisées}
-            \begin{itemize}
-                \item Dans l'air: 18\si{\degree} $\rightarrow$ $N.A=0.16$
-                \item Dans l'eau:  8\si{\degree} $\rightarrow$ $N.A=0.09$
+            \item Photodiode amplifiée
+            \begin{itemize} \item Sensibilité moyenne
+            \end{itemize}
+            \vspace*{1cm}
+            \item Photodiode à avalanche (APD)
+            \begin{itemize} \item Sensibilité élevée
+                            \item Mesures de très faibles intensités: pointes métallisées
             \end{itemize}
         \end{itemize}
-        \vspace*{-6mm}
-        \begin{figure}[c]\flushright
-            \includegraphics[height=0.15\textwidth]{Images/Scans/Spot_small}
-            \quad
-            \includegraphics[height=0.15\textwidth]{Images/Scans/Spot_big}
-            \quad
-            \includegraphics[height=0.20\textwidth]{Images/Scans/NuesDistanceWaist}\\
-            ~\\
-            \includegraphics[height=0.195\textwidth]{Images/Scans/NuesDistanceIntensite}
-        \end{figure}
-        \vspace*{-15mm}
-        \begin{itemize}
-            \item Intensité plus élevée dans l'eau que dans l'air
-        \end{itemize}
     \end{frame}
-
-
-    \begin{frame}    
-        \frametitle{Émission spatiale des pointes de Bessel}
-        {\large Pointe et faisceau de Bessel}
-        \vspace*{-2mm}\\
-        \begin{figure}[H]
-            \includegraphics[width=0.20\textwidth]{Images/PhotosPointes/Bessel_1}
-            \qquad
-            \includegraphics[width=0.40\textwidth]{Images/Schemas/bessel}
-        \end{figure}
-
-        \vspace*{4mm}
-        {\large Profil d'émission et évolution spatiale} \vspace*{1mm}\\
-        \begin{figure}[t]\centering
-            \vspace*{-3mm}
-            \includegraphics[width=0.15\textwidth]{{"Images/Scans/bessel_5um"}}
-            \;
-            \includegraphics[width=0.35\textwidth]{{"Images/Scans/bessel_courbe"}}
-            \;
-            \includegraphics[width=0.15\textwidth]{{"Images/Scans/bessel_90um"}}
-        \end{figure}
-
+        
+        
+    \begin{frame}
+        \frametitle{Pointes non métallisées}
+        \vspace*{-2mm}
         \begin{itemize}
-            \item Angle d'émission : $\theta = 0.47\si\degree \rightarrow N.A = 0.005$
+            \item Mesure de l'angle d'émission
+                \vspace*{-2mm}
+                \begin{figure}[c]\centering
+                    \hspace*{25mm}
+                    \includegraphics[height=0.16\textwidth]{Images/Scans/Spot_small}
+                    \quad
+                    \raisebox{-3mm}{\includegraphics[height=0.204\textwidth]{Images/Scans/NuesDistanceWaist}}
+                    \quad
+                    \includegraphics[height=0.16\textwidth]{Images/Scans/Spot_big}
+                \end{figure}
                 \begin{itemize}
-                    \item Grande distance de travail
+                    \item Dans l'air: 18\si{\degree} $\rightarrow$ $N.A=0.16$
+                    \vspace*{1mm}
+                    \item Dans l'eau:  8\si{\degree} $\rightarrow$ $N.A=0.09$
                 \end{itemize}
-            \item Faisceau "auto-réparant"
+            \vspace*{5mm}
+            \item Variation de l'intensité maximale
+                \vspace*{-10mm}
+                \begin{figure}[c]\centering
+                    \hspace*{25mm}
+                    \includegraphics[height=0.202\textwidth]{Images/Scans/NuesDistanceIntensite}
+                \end{figure}
+                \vspace*{-5mm}
+                \begin{itemize}
+                    \item Flux lumineux constant 
+                    \vspace*{1mm}
+                    \item Intensité plus élevée dans l'eau que dans l'air
+                \end{itemize}
         \end{itemize}
-        \let\thefootnote\relax\footnotetext{Samir R. Mondal, \textit{Central Scientific Instruments Organization} à Chandigarh (Inde)}
+    \end{frame}
+
+
+    \begin{frame}    
+        \frametitle{Pointes métallisées}
+        \begin{figure}[c]\centering
+            \includegraphics[height=0.14\textwidth]{Images/PhotosPointes/pointe_metallisee_injection}
+            \;
+            \includegraphics[height=0.14\textwidth]{Images/PhotosPointes/pointes_metallisees}
+            \;
+            \includegraphics[height=0.14\textwidth]{Images/PhotosPointes/pointe_metallisee_mesure}
+        \end{figure}
+        \begin{itemize}
+            \item Intensité injectée faible ($\leq 1mW$)
+            \item Transmission faible
+            \item Mesures par APD
+        \end{itemize}
+    
+
     \end{frame}
 
     \begin{frame}    
-        \frametitle{Émission spatiale des pointes métallisées}
+        \frametitle{Pointes métallisées}
+
+        \begin{itemize} \item Dépendance en polarisation incidente
+        \end{itemize}
+        \vspace*{0mm}
+        \vspace*{0mm}
         \begin{figure}[c]\centering
-            \includegraphics[height=0.13\textwidth]{Images/PhotosPointes/pointe_metallisee_injection}
-            \;
-            \includegraphics[height=0.13\textwidth]{Images/PhotosPointes/pointes_metallisees}
-            \;
-            \includegraphics[height=0.13\textwidth]{Images/PhotosPointes/photo_meb_exemple}
+            \includegraphics[height=0.15\textwidth]{Images/Scans/theorie_polar_long}
+            \quad
+            \includegraphics[height=0.15\textwidth]{Images/Scans/polar_long}
+            \qquad\qquad
+            \includegraphics[height=0.15\textwidth]{Images/Scans/theorie_polar_trans}
+            \quad
+            \includegraphics[height=0.15\textwidth]{Images/Scans/polar_trans}
         \end{figure}
 
-        \begin{itemize}
-            \item Faible distance
+        \vspace*{2mm}
+        \begin{itemize} \item Faible distance
+            \begin{itemize}
+                \item d$<800nm$: émission à 11\si\degree (Y) / 13\si\degree (Z)
+                \item d$>800nm$: émission à  5\si\degree (Y) /  6\si\degree (Z)
+            \end{itemize}
         \end{itemize}
-    \vspace*{-6mm}
+        \vspace*{-5mm}
         \begin{figure}[c]\flushright
             \includegraphics[height=0.15\textwidth]{Images/Scans/Metal_50nm}
             \quad
             \includegraphics[height=0.15\textwidth]{Images/Scans/Metal_1um}
             \quad
-            \raisebox{-4mm}{\includegraphics[height=0.22\textwidth]{Images/Scans/DistanceMetal}}
+            \raisebox{-6mm}{\includegraphics[height=0.24\textwidth]{Images/Scans/DistanceMetal3}}
         \end{figure}
-    \vspace*{5mm}
+    \end{frame}
+
+
+    \begin{frame}    
+        \frametitle{Les pointes de Bessel}
+        {\large Pointe et faisceau de Bessel\\}
+
+        \begin{figure}[H]\centering
+            \includegraphics[width=0.20\textwidth]{Images/PhotosPointes/Bessel_1}
+            \qquad
+            \includegraphics[width=0.40\textwidth]{Images/Schemas/bessel.pdf}
+            \qquad
+            \includegraphics[width=0.22\textwidth]{Images/PhotosPointes/BesselLoin}
+        \end{figure}
+        \vspace*{5mm}
+        \begin{figure}[H]\flushright
+            \includegraphics[width=0.25\textwidth]{Images/PhotosPointes/Bessel_MEB}
+        \end{figure}
+        
+        \vspace*{-15mm}
+        \begin{itemize}
+            \item Spot faiblement divergeant
+            \item Faisceau "auto-régénérant"
+        \end{itemize}
+        \let\thefootnote\relax\footnotetext{Samir R. Mondal, \textit{Central Scientific Instruments Organization} à Chandigarh (Inde)}
+    \end{frame}
+
+
+
+    \begin{frame}    
+        \frametitle{Les pointes de Bessel}
+        \vspace*{4mm}
+        {\large Profil d'émission et évolution spatiale} \vspace*{1mm}\\
+        \begin{figure}[t]\centering
+            \includegraphics[width=0.2\textwidth]{{"Images/Scans/bessel_5um"}}
+            \quad
+            \raisebox{-3mm}{\includegraphics[width=0.48\textwidth]{{"Images/Scans/bessel_courbe"}}}
+            \quad
+            \includegraphics[width=0.2\textwidth]{{"Images/Scans/bessel_90um"}}
+        \end{figure}
+        
+        \vspace*{5mm}
 
         \begin{itemize}
-            \item Forte dépendance en polarisation incidente
+            \item Angle d'émission: $\theta = 0.47\si\degree \rightarrow N.A = 0.005$
+            \item Flux lumineux constant
         \end{itemize}
-    \vspace*{-8mm}
-        \begin{figure}[c]\flushright
-            \includegraphics[height=0.15\textwidth]{Images/Scans/polar_long_2}
-            \quad
-            \includegraphics[height=0.15\textwidth]{Images/Scans/polar_trans}\\
-            d=80nm
-        \end{figure}
+        \qquad {\large $\rightarrow$ Piégeage à très grande distance} \vspace*{1mm}\\
+
     \end{frame}
 
 
@@ -328,15 +405,35 @@
 \section{Émission spectrale des pointes}
     \begin{frame}
         \frametitle{Émission spectrale des pointes}
+        \begin{itemize}
+            \item Injection de lumière blanche
+            \item Mesures de spectres en transmission [ 400nm, 1100nm ]
+        \end{itemize}
+        \vspace*{3mm}
+        {\large Mesures de normalisation}
+        \begin{figure}[h]
+            \includegraphics[width=0.8\textwidth]{Images/Spectro/blancspectres}
+        \end{figure}
+
+        \begin{figure}[h]
+            \includegraphics[width=0.35\textwidth]{Images/Spectro/SpectresNormalisation}
+            \qquad
+            \includegraphics[width=0.35\textwidth]{Images/Spectro/SpectresNormalisation-Transmission}
+        \end{figure}
+
+    \end{frame}
+    
+    \begin{frame}
+        \frametitle{Émission spectrale des pointes}
         
         \begin{columns}[T]
         \begin{column}{0.60\textwidth}
-            {\large Injection de lumière blanche}
             \begin{itemize}
                 \item Spectres en transmission
                 \begin{itemize}
                     \item Pointe non métallisée
                     \includegraphics[width=0.7\textwidth]{{"Images/Schemas/Spectro_nue_nue"}}
+                    \vspace*{3mm}
                     \item Pointe métallisée (ouverture $\varnothing \simeq 950nm$)
                     \includegraphics[width=0.7\textwidth]{{"Images/Schemas/Spectro_metal_nue"}}
                 \end{itemize}
@@ -346,25 +443,79 @@
                 \item Longueur d'onde de coupure pour les fibres métallisées
             \end{itemize}
         \end{column}
-        \begin{column}{0.4\textwidth}\flushright
+        \begin{column}{0.42\textwidth}\flushright
             \begin{figure}[h]
-                    \includegraphics[width=0.98\textwidth]{{"Images/Spectro/Intensite_toutes"}}
+                \includegraphics[width=\textwidth]{{"Images/Spectro/Transmission_toutes_bis"}}
             \end{figure}
-            \begin{figure}[h]
-                    \includegraphics[width=\textwidth]{{"Images/Spectro/Transmission_toutes"}}
-            \end{figure}
-
         \end{column}
         \end{columns}
 
     \end{frame}
 
 \begin{frame}
-    \frametitle{Conclusion}
+    \frametitle{}
+    {\large \textbf{Conclusion}} \vspace*{1mm}
     \begin{itemize}
-        \item Pointes non métallisées utilisables en champ lointain
+        \item Émission spatiale des pointes fibrées
+            \begin{itemize}
+                \item Pointes classiques
+                    \begin{itemize}
+                        \item {\small Spot gaussien}
+                        \vspace*{.5mm}
+                        \item {\small Angle d'émission plus faible dans l'eau (8\si\degree) que dans l'air (18\si\degree)}
+                        \vspace*{.5mm}
+                        \item {\small Intensité plus élevée dans l'eau (facteur $\times 3$)}
+                    \end{itemize}
+        \vspace*{1mm}
+                \item Pointes métallisées
+                    \begin{itemize}
+                        \item {\small Dépendance en polarisation incidente}
+                        %\item {\small }
+                    \end{itemize}
+        \vspace*{1mm}
+                \item Pointes de Bessel
+                    \begin{itemize}
+                        \item {\small Faisceau de Bessel}
+                        \vspace*{.5mm}
+                        \item {\small Angle d'émission très faible (<0.5\si\degree)}
+                    \end{itemize}
+            \end{itemize}
+            
+        \vspace*{2mm}
+        \item Spectres en transmission des pointes fibrées
+            \begin{itemize}
+                \item Absorption par l'or au-delà de 600nm
+            \end{itemize}
+        
+        
+%             \begin{description}
+%                 \item[\quad\textbf{des pointes classiques:}] ~\\
+%                     \begin{itemize}
+%                         \item Faisceau plus divergent dans l'air
+%                         \item Intensité plus élevée dans l'eau
+%                     \end{itemize}
+%                 \item[\quad\textbf{des pointes métallisées:}] ~\\
+%                     \begin{itemize}
+%                         \item Dépendance en polarisation
+%                         \item Utilisation en champ proche
+%                     \end{itemize}
+%                 \item[\quad\textbf{des pointes de Bessel:}] ~\\
+%                     \begin{itemize}
+%                         \item Angle d'émission très faible
+%                     \end{itemize}
+%             \end{description}
+%
+%         \item Spectres en transmission
+%             \begin{itemize}
+%                 \item Absorption par l'or au-delà de 600nm
+%             \end{itemize}
+    \end{itemize}
+    
+    \vspace*{5mm}
+    {\large \textbf{Perspectives}} \vspace*{1mm}
+    \begin{itemize}
+        \item Utilisation en champ proche des pointes métallisées
         \item Pointes de Bessel utilisables à très grande distance
-        \item Couplage plasmonique dans les pointes métallisées en champ proche
     \end{itemize}
 \end{frame}
 
@@ -379,3 +530,4 @@
     \end{LARGE}
 \end{frame}
 \end{document}
+
